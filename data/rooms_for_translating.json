@@ -1,0 +1,18 @@
+{
+    "rooms": [
+        {
+            "pairId": "uuid",
+            "room1name": "test1",
+            "room2name": "test2",
+            "room1lang": "English",
+            "room2lang": "Spanish"
+        },
+        {
+            "pairId": "118db324-7597-447c-af4b-a6dc4dea2833",
+            "room1name": "translate_es_en",
+            "room2name": "translate_en_es",
+            "room1lang": "Spanish",
+            "room2lang": "English"
+        }
+    ]
+}
